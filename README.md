@@ -94,7 +94,7 @@ python main.py
 
 ## 👥 Contributors
 
-* Biswarajan Panda
+* Biswaranjan Panda
 * Sidharth Satapathy
 * Swagat Pradhan
 * Shray Das
